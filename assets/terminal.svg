@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 336" width="900" height="336" role="img" aria-label="Terminal: who I am and what I am doing now">
+<defs><style>.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace;font-size:16px}.cur{animation:cur 1s steps(1) infinite}@keyframes cur{50%{opacity:0}}@keyframes c0{0%,2.22%{transform:scaleX(1)}6.67%,94%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}.c0{animation:c0 18.0s linear infinite;transform-origin:876px 0}@keyframes c1{0%,8.89%{transform:scaleX(1)}20.00%,94%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}.c1{animation:c1 18.0s linear infinite;transform-origin:876px 0}@keyframes c2{0%,22.22%{transform:scaleX(1)}27.22%,94%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}.c2{animation:c2 18.0s linear infinite;transform-origin:876px 0}@keyframes c3{0%,28.89%{transform:scaleX(1)}40.00%,94%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}.c3{animation:c3 18.0s linear infinite;transform-origin:876px 0}@keyframes c4{0%,41.11%{transform:scaleX(1)}52.22%,94%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}.c4{animation:c4 18.0s linear infinite;transform-origin:876px 0}@keyframes c5{0%,53.33%{transform:scaleX(1)}65.56%,94%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}.c5{animation:c5 18.0s linear infinite;transform-origin:876px 0}@keyframes c6{0%,65.56%{transform:scaleX(1)}74.44%,94%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}.c6{animation:c6 18.0s linear infinite;transform-origin:876px 0}@keyframes c7{0%,76.67%{transform:scaleX(1)}78.89%,94%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}.c7{animation:c7 18.0s linear infinite;transform-origin:876px 0}</style></defs>
+<rect x="1" y="1" width="898" height="334" rx="14" fill="#080e1c" stroke="#243049" stroke-width="2"/>
+<path d="M1 15a14 14 0 0 1 14-14H885a14 14 0 0 1 14 14V40H1Z" fill="#111a2e"/>
+<circle cx="28" cy="21" r="6" fill="#ef4444"/><circle cx="50" cy="21" r="6" fill="#f59e0b"/><circle cx="72" cy="21" r="6" fill="#22c55e"/>
+<text x="450" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace" font-size="12" fill="#94a3b8">prajna@rv-university: ~</text>
+<rect class="cur" x="52" y="289" width="9" height="19" fill="#2dd4bf"/>
+<text class="m" x="32" y="84" xml:space="preserve"><tspan fill="#2dd4bf">$</tspan> <tspan fill="#f8fafc">whoami</tspan></text>
+<rect class="c0" x="24" y="63" width="852" height="30" fill="#080e1c"/>
+<text class="m" x="32" y="112" xml:space="preserve"><tspan fill="#cbd5e1">prajna n rao · B.Tech (Hons.) CSE · AI/ML + Robotics · RV University</tspan></text>
+<rect class="c1" x="24" y="91" width="852" height="30" fill="#080e1c"/>
+<text class="m" x="32" y="152" xml:space="preserve"><tspan fill="#2dd4bf">$</tspan> <tspan fill="#f8fafc">cat now.txt</tspan></text>
+<rect class="c2" x="24" y="131" width="852" height="30" fill="#080e1c"/>
+<text class="m" x="32" y="180" xml:space="preserve"><tspan fill="#a78bfa">research</tspan> <tspan fill="#94a3b8">→</tspan> <tspan fill="#cbd5e1">explainable AI for household energy &amp; water use</tspan></text>
+<rect class="c3" x="24" y="159" width="852" height="30" fill="#080e1c"/>
+<text class="m" x="32" y="208" xml:space="preserve"><tspan fill="#38bdf8">building </tspan> <tspan fill="#94a3b8">→</tspan> <tspan fill="#cbd5e1">health-tech: IoT sensors + deep learning</tspan></text>
+<rect class="c4" x="24" y="187" width="852" height="30" fill="#080e1c"/>
+<text class="m" x="32" y="236" xml:space="preserve"><tspan fill="#fbbf24">learning </tspan> <tspan fill="#94a3b8">→</tspan> <tspan fill="#cbd5e1">always something new: ROS2 · perception · Fusion 360 · and more</tspan></text>
+<rect class="c5" x="24" y="215" width="852" height="30" fill="#080e1c"/>
+<text class="m" x="32" y="264" xml:space="preserve"><tspan fill="#fb7185">designing</tspan> <tspan fill="#94a3b8">→</tspan> <tspan fill="#cbd5e1">websites · posters · UX</tspan></text>
+<rect class="c6" x="24" y="243" width="852" height="30" fill="#080e1c"/>
+<text class="m" x="32" y="304" xml:space="preserve"><tspan fill="#2dd4bf">$</tspan></text>
+<rect class="c7" x="24" y="283" width="852" height="30" fill="#080e1c"/>
+</svg>
