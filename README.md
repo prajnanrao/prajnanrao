@@ -86,28 +86,7 @@ I enjoy learning across disciplines, from AI and computing to robotics, automati
 
 <br/>
 
-## 🤖 Robotics & Automation
 
-My minor started with the basics and is now moving into how robots sense and locate themselves.
-
-<div align="center">
-<img src="assets/robotics-path.svg" alt="Learning path: Intro to Robotics, Industrial Automation, Dynamics and Control, Perception and Localisation, ROS2 and Fusion 360" width="100%"/>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="assets/projects/perception.svg" alt="A robot scanning landmarks with a sweeping lidar beam" width="100%"/>
-<b>Perception & Localisation</b>: learning how a robot scans its surroundings and works out where it is. <i>Studying now.</i>
-</td>
-<td width="50%" valign="top">
-<img src="assets/projects/controls.svg" alt="Feedback control loop and a step response settling on the setpoint" width="100%"/>
-<b>Dynamics & Control</b>: feedback loops, and how a system settles on its target.
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🛠️ Making & design
 
